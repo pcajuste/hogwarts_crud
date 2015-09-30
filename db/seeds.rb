@@ -104,4 +104,5 @@ Student.create [ { name: 'Euan Abercrombie', img_url: 'http://images.clipartpand
 { name: 'Godric Gryffindor', img_url: 'http://img1.wikia.nocookie.net/__cb20140615154246/harrypotter/images/3/38/PR_007_003-e1313269822422.jpg', house_id: gryffindor.id },
 { name: 'Helga Hufflepuff', img_url: 'http://img2.wikia.nocookie.net/__cb20140615154415/harrypotter/images/8/8c/PR_007_001-e1313269883743.jpg', house_id: hufflepuff.id },
 { name: 'Rowena Ravenclaw', img_url: 'http://img4.wikia.nocookie.net/__cb20140615152737/harrypotter/images/8/8e/Ravenclaw_paintfilter-688x1223.jpg', house_id: ravenclaw.id },
-{ name: 'Salazar Slytherin', img_url: 'http://img2.wikia.nocookie.net/__cb20140615154545/harrypotter/images/2/2b/PR_007_005-e1313269785740.jpg', house_id: slytherin.id } ]
+{ name: 'Salazar Slytherin', img_url: 'http://img2.wikia.nocookie.net/__cb20140615154545/harrypotter/images/2/2b/PR_007_005-e1313269785740.jpg', house_id: slytherin.id },
+{ name: 'Pierre Cajuste', img_url: 'https://media.licdn.com/media/p/1/005/052/0f7/2b733df.jpg', house_id: slytherin.id } ]
